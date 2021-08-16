@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![LinkedIn Badge](https://img.shields.io/badge/Dominic_Guo-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dominic-guo-203b33199/)
 
+##test
 <!--
 **dslguo/dslguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
